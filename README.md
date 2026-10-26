@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubassir Sadat</h1>
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about Turning Ideas into Digital Reality</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-sadat&label=Profile%20views&color=0e75b6&style=flat" alt="dev-sadat" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-sadat" alt="dev-sadat" /></a> </p>
 
