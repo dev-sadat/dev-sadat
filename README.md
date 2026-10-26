@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-sadat" alt="dev-sadat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/riyel019" target="blank"><img src="https://img.shields.io/twitter/follow/riyel019?logo=twitter&style=for-the-badge" alt="riyel019" /></a> </p>
 
