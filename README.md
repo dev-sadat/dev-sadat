@@ -24,13 +24,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/teri.maiko.choko" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/Dev.Sadat01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/mubassir-sadat-14ab80446/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/dev-sadat" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.freelancer.com/u/YOUR_FREELANCER_USERNAME" target="_blank" rel="noreferrer">
+  <a href="https://www.freelancer.com/u/devsadat4" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
   </a>
 </p>
