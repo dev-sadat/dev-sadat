@@ -12,7 +12,7 @@
 
 - 🤝 **How I help clients:** Designing and building fast, mobile-responsive websites, custom WordPress themes, and high-converting landing pages that help brands stand out and build trust
 
-- 👨‍💻 **All of my projects:** Available on [GitHub Repositories](https://github.com/dev-sadat?tab=repositories) and [LinkedIn](https://www.linkedin.com/in/mubassir-sadat-14ab80446/)
+- 👨‍💻 **All of my projects:** Available on [GitHub Repositories](https://github.com/dev-sadat?tab=repositories) and [LinkedIn](https://www.linkedin.com/in/dev-sadat/)
 
 - 💬 **Ask me about:** Website Design & Redesign, WordPress Customization, Front-End UI/UX, and Turning Business Ideas into Live Websites
 
