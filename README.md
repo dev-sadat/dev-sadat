@@ -16,7 +16,7 @@
 
 - 💬 **Ask me about:** Website Design & Redesign, WordPress Customization, Front-End UI/UX, and Turning Business Ideas into Live Websites
 
-- 📫 **How to reach me:** [sadat.mubassir4@gmail.com](mailto:sadat.mubassir4@gmail.com)
+- 📫 **How to reach me:** [sadatmubassir4@gmail.com](mailto:sadatmubassir4@gmail.com)
 
 - ⚡ **Fun fact:** Drinking Coffee ☕
 
